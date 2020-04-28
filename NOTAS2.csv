@@ -1,8 +1,8 @@
-MATERIA,NOTA,CURSO
-dibujo de personajes,7.6,2
-diseño y creatividad,9.3,2
-redaccion academica,8.7,2
-intro a la animacion,9.6,2
-storyboard,8.3,2
-intro al video,8.6,2
-fotografia ,8.9,2
+CURSO,MATERIA,NOTA
+2,dibujo de personajes,7.6
+2,diseño y creatividad,9.3
+2,redaccion academica,8.7
+2,intro a la animacion,9.6
+2,storyboard,8.3
+2,intro al video,8.6
+2,fotografia ,8.9
